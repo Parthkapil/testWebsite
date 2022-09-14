@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/testWebsite/static/css/main.83829edb.chunk.css",
+    "main.js": "/testWebsite/static/js/main.6d62a676.chunk.js",
+    "main.js.map": "/testWebsite/static/js/main.6d62a676.chunk.js.map",
+    "runtime-main.js": "/testWebsite/static/js/runtime-main.c490f0a6.js",
+    "runtime-main.js.map": "/testWebsite/static/js/runtime-main.c490f0a6.js.map",
+    "static/js/2.c375284e.chunk.js": "/testWebsite/static/js/2.c375284e.chunk.js",
+    "static/js/2.c375284e.chunk.js.map": "/testWebsite/static/js/2.c375284e.chunk.js.map",
+    "index.html": "/testWebsite/index.html",
+    "static/css/main.83829edb.chunk.css.map": "/testWebsite/static/css/main.83829edb.chunk.css.map",
+    "static/js/2.c375284e.chunk.js.LICENSE.txt": "/testWebsite/static/js/2.c375284e.chunk.js.LICENSE.txt",
+    "static/media/ice_car.svg": "/testWebsite/static/media/ice_car.bfb0a99b.svg",
+    "static/media/profile.svg": "/testWebsite/static/media/profile.1618dda0.svg",
+    "static/media/svg-1.svg": "/testWebsite/static/media/svg-1.46a6767a.svg",
+    "static/media/svg-2.svg": "/testWebsite/static/media/svg-2.7d228387.svg",
+    "static/media/svg-3.svg": "/testWebsite/static/media/svg-3.24e2494e.svg",
+    "static/media/svg.svg": "/testWebsite/static/media/svg.3927a483.svg",
+    "static/media/video.519ad592.mp4": "/testWebsite/static/media/video.519ad592.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c490f0a6.js",
+    "static/js/2.c375284e.chunk.js",
+    "static/css/main.83829edb.chunk.css",
+    "static/js/main.6d62a676.chunk.js"
+  ]
+}
